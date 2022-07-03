@@ -1,43 +1,45 @@
 # Terminal(windows | Linux)
 
-## List
+## **List**
 
 ### windows(power shell)
 
-## delete directory or files
+### delete directory or files
 
 `> Remove-item directory -Recurse -Force`
 
-## Navigate between directories:
+### Navigate between directories:
 
 `> cd /users/home`
 
-## create directory(-p flag does not work):
+### create directory(-p flag does not work):
 
 `> mkdir test`
 
-## list directory content:
+### list directory content:
 
 `> ls` or `> dir`
 
-## change partition:
+### change partition:
 
 `> w:`
 
-### linux
+## **linux**
 
-## delete directory or files
+### delete directory or files
 
 `> rm -r directory`
 
-## create directory(-p create parent directories):
+### create directory(-p create parent directories):
 
 `> mkdir -p directory/test`
 
-## Navigate between directories(go back between directories: ../):
+### Navigate between directories(go back between directories: ../):
 
 `> cd /users/home`
 
-## list directory content:
+### list directory content:
 
 `> ls`
+
+> [@MigueAJM](https://twitter.com/migueajm)

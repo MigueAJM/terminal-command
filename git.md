@@ -1,4 +1,4 @@
-# Git commands
+# **Git commands**
 
 ## Workflow (The 3 states)
 
@@ -136,17 +136,11 @@ is a file that stores information about what will be on your next commit, someti
 
 `> git fetch remote_name branch_name`
 
-### merge; positioned in master or main(branch merge):
+### merge positioned in master or main(branch merge):
 
-`
-
-> git checkout master
-> git merge new_feature
-> git branch -d new_feature
->
-> `
-
-`> git fetch remote_name branch_name`
+- `> git checkout master`
+- `> git merge new_feature`
+- `> git branch -d new_feature`
 
 ### pull(download commits, files, references from a remote repository and update your local repository(fetch and merge):
 
