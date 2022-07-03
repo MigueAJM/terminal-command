@@ -14,7 +14,7 @@ is a Copy of a repository version. The files are obtained from a compressed data
 
 is a file that stores information about what will be on your next commit, sometimes called an index.
 
-<img style="width: 20rem" src="https://github.com/MigueAJM/shell-command/image/git/states.png" alt="3 states">
+<img style="width: 20rem" src="https://raw.githubusercontent.com/MigueAJM/shell-command/master/image/git/states.png?token=GHSAT0AAAAAABV6EFAN7KFIP4VIOZEECVSUYWB33VQ" alt="3 states">
 
 ## List
 
