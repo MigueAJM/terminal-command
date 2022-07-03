@@ -1,4 +1,4 @@
-# SHELL
+# Terminal(windows | Linux)
 
 ## List
 
