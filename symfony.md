@@ -1,5 +1,7 @@
 # **Symfony command**
 
+## **install symfony composer**
+
 ### create project composer <= v3.4
 
 `> composer create-project symfony/framework-standard-edition my_project_name "3.4.*"`
@@ -31,6 +33,24 @@
 
 ### create new symfony project
 
-#### `> --webapp` building traditional web application
-
 `> symfony new my_project_directory --version=5.3 --webapp`
+
+#### The `> --webapp` parameter: building traditional web application
+
+## **php bin/console**
+
+### start server
+
+`> php bin/console server:run`
+
+### autoload: psr4: '':src/
+
+`> composer dump-autoload`
+
+### add config.yml
+
+`templating: engines: ['twig']`
+
+### create bundle
+
+`> php bin/console generate:bundle]`
