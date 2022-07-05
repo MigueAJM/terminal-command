@@ -153,3 +153,5 @@ is a file that stores information about what will be on your next commit, someti
 ## Alias
 
 `> git config --global alias.co checkout`
+
+> [@MigueAJM](https://twitter.com/migueajm)
