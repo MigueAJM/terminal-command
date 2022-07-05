@@ -130,7 +130,7 @@ is a file that stores information about what will be on your next commit, someti
 
 ### delete remote:
 
-`> git remote rmorigin`
+`> git remote rm origin`
 
 ### fetch(download commits, files and references from a remote repository):
 
