@@ -105,6 +105,11 @@ is a file that stores information about what will be on your next commit, someti
 ### log:
 
 `> git log`
+#### Parameters:
+- `--graph`
+- `--stat`
+- `--pretty=oneline`
+- `--pretty=format:"%h - %an, %ar : %s"`
 
 ## Remote
 
