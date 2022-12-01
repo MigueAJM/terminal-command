@@ -19,11 +19,15 @@ is a file that stores information about what will be on your next commit, someti
 ## List
 
 ### config name:
-
+#### Un repositorio
+`> git config user.name "Username"`
+#### Todos los repositorios
 `> git config --global user.name "Username"`
 
 ### config email:
-
+### Un repositorio
+`> git config --global user.email example@example.mx`
+#### Todos los repositorios
 `> git config --global user.email example@example.mx`
 
 ### list configuration:
