@@ -163,4 +163,9 @@ is a file that stores information about what will be on your next commit, someti
 
 `> git config --global alias.co checkout`
 
+## ignore files if previously committed
+
+`> git rm --cached filename`
+#### update .gitignore and make the new commit
+
 > [@MigueAJM](https://twitter.com/migueajm)
