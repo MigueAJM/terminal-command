@@ -1,4 +1,4 @@
-# Terminal(windows | Linux)
+# Terminal(windows | Linux | MacOS)
 
 ## **List**
 
@@ -41,5 +41,9 @@
 ### list directory content:
 
 `> ls`
+
+### remove a specific file within a directory and subdirectories
+
+`> find path_search_directory -name filename -type f -delete`
 
 > [@MigueAJM](https://twitter.com/migueajm)
