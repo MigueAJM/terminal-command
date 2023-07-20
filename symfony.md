@@ -35,6 +35,10 @@
 
 `> symfony new my_project_directory --version=5.3 --webapp`
 
+### run server with symfony-cli
+
+`> symfony server:start`
+
 #### The `> --webapp` parameter: building traditional web application
 
 ## **php bin/console**
