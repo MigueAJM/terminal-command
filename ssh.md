@@ -35,4 +35,4 @@
 
 - `ssh -T git@github.com`
 - `ssh -T git@gitlab.com`
-- `ssh -T git@bitbucket.com`
+- `ssh -T git@bitbucket.org`
